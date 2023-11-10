@@ -1,0 +1,37 @@
+nav {
+    background-color: #727272;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000;
+}
+.container {
+    max-width: 960px;
+    margin: auto;
+    padding: 25px;
+    text-align: center; 
+}
+footer {
+    background-color: #727272;
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #000000;
+    text-decoration: none;
+    margin: 0 10px;
+}
